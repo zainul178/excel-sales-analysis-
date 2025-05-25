@@ -22,4 +22,4 @@ A comprehensive sales analysis dashboard built in Excel to visualize order patte
 - **Peak Occasions**: Diwali, Valentine’s Day, Raksha Bandhan  
 - **Top Products**: Desert Box, Dolores Gift, Magnam Pack  
 
-[Download Excel File](https://github.com/your-username/your-repo-name/blob/main/excel-project.xlsx )
+[Download Excel File](project 1.xlsx)
